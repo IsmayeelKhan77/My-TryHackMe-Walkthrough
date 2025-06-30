@@ -6,7 +6,7 @@ This room teaches core networking concepts that every cybersecurity student must
 
 ---
 
-## 🔑 Key Concepts Learned
+##  Key Concepts I Learned
 
  Topics:
  
@@ -32,13 +32,13 @@ This room teaches core networking concepts that every cybersecurity student must
 
 ---
 
-## 🔧 Tools & Commands I Practiced
+##  Tools & Commands which i practiced
 
 ```bash
-ping tryhackme.com         # Check if a host is alive
-traceroute 8.8.8.8         # See path packets take (Linux)
+ping tryhackme.com         # It check if a host is alive
+traceroute 8.8.8.8         # This see path packets take (Linux)
 tracert 8.8.8.8            # Windows version of traceroute
 nslookup tryhackme.com     # DNS lookup for IP address of a domain
-whois google.com           # Info about who owns a domain
+whois google.com           # This gives Info about who owns a domain
 netstat -an                # Show open ports and connections
 ipconfig / ifconfig        # Show IP, MAC, gateway (Windows/Linux)
