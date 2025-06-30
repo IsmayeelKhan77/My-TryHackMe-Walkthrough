@@ -9,6 +9,7 @@ This room teaches core networking concepts that every cybersecurity student must
 ## 🔑 Key Concepts Learned
 
  Topics:
+ 
 **IP Address:** A unique address assigned to each device on a network (e.g., 192.168.1.1)
 
 **DNS (Domain Name System):** Translates domain names (like google.com) into IP addresses 
