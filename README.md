@@ -19,5 +19,5 @@ To:
 
 ## 🔗 My TryHackMe Profile
 
-[Visit my profile](https://tryhackme.com/p/ismayeel7)  
+[Visit my profile](https://tryhackme.com/p/Ismayeel7)
 
