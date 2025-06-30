@@ -9,15 +9,24 @@ This room teaches core networking concepts that every cybersecurity student must
 ## 🔑 Key Concepts Learned
 
  Topics:
-**IP Address:** A unique address assigned to each device on a network (e.g., 192.168.1.1) 
+**IP Address:** A unique address assigned to each device on a network (e.g., 192.168.1.1)
+
 **DNS (Domain Name System):** Translates domain names (like google.com) into IP addresses 
+
 **MAC Address:**  A unique identifier for network interface cards (hardware-level) 
+
 **Ports:** Communication endpoints for services (e.g., port 80 for HTTP) 
+
 **Protocol:s** Rules for communication (like TCP, UDP, HTTP, DNS, FTP, etc.) 
+
 **Packet:s** Data is broken into small pieces (packets) to send over a network 
+
 **Traceroute:** Shows the path packets take to reach a target 
+
 **NAT:** Converts private IPs to public IPs to access internet 
+
 **Subnetting:** Divides networks into smaller, manageable pieces 
+
 **OSI Model:**  Conceptual model with 7 layers (helps troubleshoot and understand communication flow) 
 
 ---
