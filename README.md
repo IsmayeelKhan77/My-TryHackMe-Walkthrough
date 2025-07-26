@@ -1,6 +1,6 @@
 # 🧠 My TryHackMe Walkthroughs
 
-Hi! I'm Ismayeel — a future Cloud Security Engineer in training.  
+Hi! I'm Ismayeel khan, a future Cloud Security Engineer in training.  
 This is where I document my learning journey through TryHackMe rooms.
 
 ## 🚩 Completed Rooms
